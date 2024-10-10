@@ -4,7 +4,7 @@
 👩🏻‍💻 Software Engineer and Designer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied [Computer Science](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at the Himachal Pradesh Technical University, Hamirpur<br/>
 🎨 Making music , tech, and productivity on [YouTube](https://www.youtube.com/c/pykvtz)<br/>
-💭 Check my digital notes for CS Students [Notion](https://www.notion.so/My-Notes-11b45ba9ac0d8083b8f1c1c34b57f43c?pvs=4)!<br/>
+🗒️ Check my digital notes for CS Students [Notion](https://www.notion.so/My-Notes-11b45ba9ac0d8083b8f1c1c34b57f43c?pvs=4)<br/>
 
 # 💻 My Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
