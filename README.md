@@ -6,10 +6,7 @@
 🎨 Making music , tech, and productivity on [YouTube](https://www.youtube.com/c/pykvtz)<br/>
 💭 Check my digital notes for CS Students [Notion](https://www.notion.so/My-Notes-11b45ba9ac0d8083b8f1c1c34b57f43c?pvs=4)!<br/>
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-# 💻 Tech Stack
+# 💻 My Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
